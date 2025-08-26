@@ -5,5 +5,6 @@ This repository contains the full testing plan for the Attorney. It includes the
 
 - Test Plan
 - Test Result Sheet Link - https://docs.google.com/spreadsheets/d/1lmuHGTXvlfG_Laml64HIgglkqxhdGpQOO5g2xnyX1E4/edit?gid=1868745333#gid=1868745333
+- Project Link - https://github.com/nethsilumarasinghe/attorney.-frontend.git
 
 
